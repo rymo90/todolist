@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  /* background-color: black; */
+  width: 100%;
+  height: 100%;
+}
+#Editor{
+  width: 550px;
+  height: 320px;
+  padding: 10px,15px,10px,15px;
+  background-color: #cccccc;
+}
+#Previewer{
+  /* text-align: center; */
+  /* width: 150px; */
+  height: 100%;
+  background-color: #99ffb3;
+  padding: 10px, 15px 10px 15px;
+}
+#Previewer > h2{
+  text-align: center;
+  color : blue;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
